@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://xcbz.dpdns.org/</loc>
+    <lastmod>2026-10-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://xcbz.dpdns.org/File/logo.png</image:loc>
+      <image:title>许昌市第八中学校徽</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://xcbz.dpdns.org/File/hero.jpg</image:loc>
+      <image:title>许昌市第八中学校园风光</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://xcbz.dpdns.org/File/building.jpg</image:loc>
+      <image:title>许昌市第八中学教学楼</image:title>
+    </image:image>
+  </url>
+</urlset>
